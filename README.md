@@ -6,10 +6,6 @@ Project Title: Financial Analytics
 
 Technologies: Business Intelligence
 
-Domain : Finance
-
-Project Difficulties level: Intermediate
-
 Problem Statement:
 
 Without analyzing the competition, it is difficult for a business to survive.
